@@ -1,3 +1,4 @@
-.alto-imagen-header{
-    height: 50%;
+.insertar-arriba{
+    position: relative;
+    top: 0px;
 }
